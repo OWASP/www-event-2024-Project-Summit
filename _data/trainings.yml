@@ -1,0 +1,350 @@
+- Type: Training
+  Trainers: 
+    - Name: Abraham Aranguren
+      Email: admin@7asecurity.com
+      Image: /assets/images/abraham_aranguren.png
+      Twitter: 7ASecurity
+      Biography: >-
+          After 15 years in itsec and 22 in IT Abraham is now the CEO of 7ASecurity, a company specializing in penetration testing of web/mobile apps, infrastructure, code reviews and training. Co-Author of the Mobile, Web and Desktop Electron app 7ASecurity courses. Security Trainer at Blackhat USA, HITB, OWASP Global AppSec and many other events. Former senior penetration tester / team lead at Cure53 and Version 1. Creator of Practical Web Defense, a hands-on eLearnSecurity attack / defense course, OWASP OWTF project leader, an OWASP flagship project - owtf.org, Major degree and Diploma in Computer Science, some certs - CISSP, OSCP, GWEB, OSWP, CPTS, CEH, MCSE-Security, MCSA-Security, Security+. As a shell scripting fan trained by unix dinosaurs, Abraham wears a proud manly beard. He writes on Twitter as @7asecurity. Multiple presentations, pentest reports and recordings can be found at 7asecurity.com/publications
+  TrainerId: trainer001
+  Title: Hacking Modern Web & Desktop apps - Master the Future of Attack Vectors - 3 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
+  SectionId: sku_HAIIE
+  Description: >-
+      <strong>In person and online training option available</strong><br>
+      <br>
+      This course is a 100% hands-on deep dive into the OWASP Security Testing Guide and relevant items of the OWASP Application Security Verification Standard (ASVS), so this course covers and goes beyond the OWASP Top Ten.
+      Long are the days since web servers were run by perl scripts and desktop apps written in Delphi. What is common between Walmart, eBay, PayPal, Microsoft, LinkedIn, Google and Netflix? They all use Node.js, JavaScript on the server. What is common between Microsoft Teams, Skype, Bitwarden, Slack and Discord? All of them are written in Electron, JavaScript on the client.
+      Modern Web and Desktop apps share traditional attack vectors and also introduce new opportunities to threat actors. This course will teach you how to review modern web and desktop apps, showcasing Node.js and Electron but using techniques that will also work against any other web or desktop app platform. Ideal for Penetration Testers, Web and Desktop app Developers as well as everybody interested in JavaScript/Node.js/Electron app security.<br>
+      <br>
+      Get a FREE taste for this training, including access to video recording, slides and vulnerable apps to play with<br>
+      1.5 hour workshop - https://7asecurity.com/free-workshop-desktop-apps<br>
+      <br>
+      1 hour workshop - https://7asecurity.com/free-workshop-web-apps<br>
+      <br>
+      All action, no fluff, improve your security analysis workflow and immediately apply these gained skills in your workplace, packed with exercises, extra mile challenges and CTF, self-paced and suitable for all skill levels, with continued education via unlimited email support and lifetime access to training portal with step-by-step video recordings and interesting apps to practice, including all future updates for free.
+- Type: Training
+  Trainers: 
+    - Name: Fabio Cerullo
+      Email: fcerullo@cycubix.com
+      Image: /assets/images/Fabio Cerullo.jpg
+      Twitter: fcerullo
+      Biography: >-
+          Fabio delivered this training to thousands of developers and security professionals. He also regularly delivers training to technical audiences on various topics 
+          such as application security, cloud security, and information security. Here is a reference from one attendee of his courses, 
+          <strong>          
+          Fabio is an excellent instructor. I was lucky enough to attend one of the courses where he was the instructor. He was able to present the 
+          subject matter in an interesting way and at an appropriate pace. He encouraged interaction and was able to answer questions with ease by 
+          leveraging his extensive experience in the industry.
+          </strong>
+          Fabio Cerullo is an official certified instructor for (ISC)², the global leader in information security education and certification. Fabio has over 15 years of experience in the information security field gained across a diverse range of industries ranging from financial and government institutions to software houses and start-ups. He regularly trains professionals from different backgrounds in application security, cloud security, and information security. He is a regular speaker at events organized by OWASP, ISACA and (ISC)² among others; and provides commentary and written articles for specialized industry media (Computer Weekly, Infosecurity Magazine, SiliconRepublic.com, etc). He holds an MSc in Computer Engineering from UCA and the SSCP, CISSP, CSSLP & CCSP certifications from (ISC)². 
+  TrainerId: trainer002
+  Title: Web Application Security Essentials - 3 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
+  SectionId: sku_WASE
+  Description: >-
+      This course provides the knowledge and resources required to evaluate the security of web applications. The participants, through the understanding of theory and a strong focus on practical exercises, will be able to identify critical vulnerabilities in web applications, understand how exploitation works and learn how to implement the necessary corrective measures.<br>
+      <br>
+      The course is aligned with the OWASP Top 10 2021, a world-renowned reference document which describes the most critical web application security flaws.<br>
+      <br>
+      The topics covered include<br>
+
+      <ul><li>Introduction to Web Application Security</li>
+      <li>Technologies used in Web Applications</li>
+      <li>The Security Tester Toolkit</li>
+      <li>Critical Areas in Web Applications</li>
+      <li>Broken Access Control</li>
+      <li>Cryptographic Failures</li>
+      <li>Injection</li>
+      <li>Insecure Design</li>
+      <li>Security Misconfiguration</li>
+      <li>Vulnerable and Outdated Components</li>
+      <li>Identification and Authentication Failures</li>
+      <li>Software and Data Integrity Failures</li>
+      <li>Security Logging and Monitoring Failures</li>
+      <li>Server Side Request Forgery (SSRF)</li></ul>
+      <br>
+      Format - The course combines theory and hands-on practical exercises. The participants start by learning about web application vulnerabilities. They are then given access to a purpose-built web application environment that contains the bugs and coding errors they have learned about. This provides an ideal ‘real-life’ opportunity to exploit these vulnerabilities in a safe environment.
+      <br>
+- Type: Training
+  Trainers: 
+    - Name: Sven Schleier
+      Email: sven.schleier@owasp.org
+      Image: /assets/images/sven_headshot.png
+      Twitter: bsd_daemon
+      Biography: >-
+          Sven is living in Austria and is a Pricipal Security Consultant at Crayon, specialized in Cloud Security.  He has extensive experience in offensive security engagements like Penetration Testing and Application Security by supporting and guiding software developement projects for Mobile and Web Applications during the whole SDLC to build security in from the start.  
+          Besides his day job, Sven is one of the core project leaders and authors of the OWASP Mobile Application Security Testing Guide, MASTG, and OWASP Mobile Application Security Verification Standard, MASVS. Sven is giving talks and workshops about Mobile Security worldwide to different audiences, ranging from developers to students and penetration testers.
+  TrainerId: trainer003
+  Title: The Mobile Playbook - A guide for iOS and Android App Security - 3 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
+  SectionId: sku_TMPAGFIAAS
+  Description: >-
+      <strong>Available as hybrid, - in Person or Online</strong>
+
+      This three-day hands-on course teaches penetration testers and developers how to analyse Android and iOS applications for security vulnerabilities by going through the different phases of testing, including dynamic testing, static analysis, reverse engineering and Software Composition Analysis (SCA), using the OWASP Mobile Application Security Testing Guide (MASTG). The OWASP MASTG is a comprehensive and open source guide to mobile security testing for both iOS and Android, providing a methodology and very detailed technical test cases to ensure completeness and using the latest attack techniques against mobile applications. This course will give you hands-on experience with open source tools and advanced methodologies by guiding you through real-world scenarios.
+      <br>
+      Detailed outline<br>
+      <br>
+      We'll start the first day with an introduction to the OWASP MASVS and MASTG and the latest updates to it and then dive into the Android platform and its security architecture. Students will no longer be required to bring their own Android device, instead each student will be provided with a cloud-based virtualised Android device from Corellium. Topics include<br>
+      <br>
+      <ul><li>Intercepting network traffic from apps written in mobile app frameworks such as Google's Flutter</li>
+      <li>Reverse engineering a Kotlin app and identifying and exploiting a real-world deep link vulnerability through manual source code review</li>
+      <li>Explore the differences and effectiveness of reverse engineering Android apps using Smali patching, Magisk and Dynamic Instrumentation with Frida</li>
+      <li>Frida crash course to get started with dynamic instrumentation on Android apps</li>
+      <li>Bypass different implementations of SSL pinning using Frida</li>
+      <li>Use dynamic instrumentation with Frida to Bypass multiple root detection mechanisms</li></ul>
+      <br>
+      Day 1 will be closed with a Capture the Flag (CTF)<br>
+      <br>
+      On day 2 we wrap up Android and start with iOS and we will use a Github repo to trigger static scanning, SCA and secret scanning on Kotlin and Swift<br>
+      <br>
+      Android<br>
+      <br>
+      <ul><li>Analyse the storage of an Android app and understand the various options on how and where files can be stored (app-specific, shared storage etc.)</li>
+      <li>Using Brida (Frida and Burp) to bypass End2End encryption in an Android App</li>
+      <li>Static Scanning of Kotlin source code, identifying vulnerabilities and eliminating false positives</li>
+      <li>Scanning for secrets in an APK</li></ul>
+      <br>
+      iOS<br>
+      <br>
+      <ul><li>Introduction into iOS Security fundamentals</li>
+      <li>Scanning for secrets in a Swift repository and identifying ways to handle them securely</li>
+      <li>Software Composition Analysis (SCA) for iOS - Scanning 3rd party libraries and SDKs in mobile package managers for known vulnerabilities and mitigation strategies</li>
+      <li>Statically scanning Swift source code, identifying vulnerabilities and eliminating false positives</li>
+      <li>Demonstration on how to test watchOS apps and it's limitations</li></ul>
+      <br>
+      Day 3 focuses on iOS. We will begin the day by creating an iOS test environment using Corellium and dive into several topics, including<br>
+      <br>
+      <ul><li>Intercepting network traffic of an iOS App in various scenarios, including intercepting traffic that is not HTTP</li>
+      <li>Examining stateless authentication (JWT) in a mobile app</li>
+      <li>A Frida crash course to get started with dynamic instrumentation for iOS applications</li>
+      <li>Analyse the storage of an iOS app and understand the various options on how (Realm databases etc.) and where files can be stored</li>
+      <li>Testing methodology with a non-jailbroken device by repackaging an IPA with the Frida gadget</li>
+      <li>Using Frida to bypass runtime instrumentation of iOS applications</li>
+      <li>Anti-Jailbreaking Mechanisms</li>
+      <li>Frida's detection mechanism</li></ul>
+      <br>
+      We'll wrap up the final day with another mobile app CTF where you can apply your newly learned skills.<br>
+      <br>
+      Whether you are a beginner who wants to learn mobile app testing from the ground up, or an experienced pentester or developer who wants to improve your existing skills to perform more advanced attack techniques, or just for fun, this training will help you achieve your goals.<br>
+      <br>
+      The course consists of many different labs developed by the instructor and is approximately 65% hands-on and 35% lecture.<br>
+      <br>
+      Upon successful completion of this course, students will have a better understanding of how to test for vulnerabilities in mobile applications, how to suggest the right mitigation techniques to developers, and how to perform tests consistently.<br>
+      <br>
+      What students should bring<br>
+      <br>
+      The following requirements must be met by students in order to be able to follow all exercises and participate fully<br>
+      <br>
+      <ul><li>Laptop (Windows/Linux/macOS) with at least 8GB of RAM and 40GB of free disk space</li>
+      <li>Full administrative access in case of problems with the laptop environment (e.g. ability to disable VPN or AV/EDR)</li>
+      <li>Virtualisation software (e.g. VMware, VirtualBox, UTM); a virtual machine will be provided for X86 and ARM architecture (for M1/M2/M3 MacBooks) with all tools required for the training</li>
+      <li>Ideally a tablet to have a second screen for the practical lab slides when doing the hands-on sessions</li>
+      <li>Github account is needed (free account is sufficient) to fork a repository</li></ul>
+      <br>
+      An iOS and Android device is NOT required as an emulated instance is provided for each student hosted at Corellium. This is a cloud-based environment that allows each student access to a jailbroken iOS device and a rooted Android device during the training.<br>
+      <br>
+      What students will receive<br>
+      <br>
+      <ul><li>Slide decks for the iOS and Android training and all videos for all demonstrations shared in class</li>
+      <li>All vulnerable apps used during the training, either as APK or IPA</li>
+      <li>Detailed write-ups for all labs so you can review them at your own pace after the course</li>
+      <li>Dedicated Slack channel used to help students prepare before the course, communicate during the course and stay in touch after the course for any questions</li>
+      <li>Certificate of completion</li></ul>
+      <br>
+      What prerequisites should students have before attending this training?<br>
+      <br>
+      <ul><li>This course is for Beginners and Intermediate</li>
+      <li>Basic understanding of mobile apps</li>
+      <li>able to use Linux command line</li></ul>
+- Type: Training
+  Trainers: 
+    - Name: Sebastien Deleersnyder
+      Email: seba@owasp.org
+      Image: /assets/images/sebastien_deleersnyder__portrait.png
+      Twitter: sebadele
+      Biography: >-
+          Sebastien Deleersnyder (Seba) is the CTO, co-founder of Toreon and COO of Data Protection Institute. With a strong background in development and extensive experience in cybersecurity, Seba has trained numerous developers on how to create more secure software. He is also the founder of the Belgian OWASP chapter and a former member of the OWASP Foundation Board. Through his work leading OWASP projects like OWASP SAMM, Seba has made a significant impact in improving the overall security of the world. Currently, he is focused on adapting application security models to the rapidly changing landscape of DevOps and promoting the importance of threat modeling to a broader audience.
+  TrainerId: trainer004
+  Title: Agile Whiteboard Hacking – aka Hands-on Threat Modeling - 2 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
+  SectionId: sku_AWHAHTM
+  Description: >-
+      Based on the updated Black Hat edition 2024 training, you will be challenged with hands-on threat modeling exercises based on real-world projects. You will get insight into our practical industry experience, helping you to become a Threat Modeling Practitioner. We included an exercise on MITRE ATT&CK, and we focus on embedding threat modeling in Agile and DevOps practices. And we introduce a new challenge on threat modeling a Machine Learning-Powered Chatbot.<br>
+      <br>
+      We levelled up the threat modeling war game. Engaged in CTF-style challenges, your team will battle for control over an offshore wind turbine park.<br>
+      <br>
+      The level of this training is Beginner/Intermediate. Participants who are new to threat modeling are advised to follow our self-paced Threat Modeling Introduction training, which is about 2 hours and is included in this training.<br>
+      <br>
+      As highly skilled professionals with years of experience under our belts, we are intimately familiar with the gap between academic knowledge of threat modeling and real-world practice. To minimize that gap, we have developed practical use cases, based on real-world projects. Each use case includes a description of the environment, together with questions and templates to build a threat model.<br>
+      <br>
+      Students will be challenged in groups of 3 to 4 people to perform the different stages of threat modeling<br>
+      <br>
+      <ul><li>Diagram techniques applied on a travel booking service</li>
+      <li>Threat model a cloud-based update service for an IoT kiosk</li>
+      <li>Create an attack tree against a nuclear research facility</li>
+      <li>Create a SOC Risk Based Alerting system with MITRE ATT&CK</li>
+      <li>Mitigate threats in a payment service build with microservices and S3 buckets</li>
+      <li>Threat modeling a Machine Learning-Powered Chatbot</li>
+      <li>Apply the OWASP Threat Modeling Playbook on agile development</li>
+      <li>Threat modeling the CI/CD pipeline</li>
+      <li>Battle for control over "Zwarte Wind", an offshore wind turbine park</li></ul>
+      <br>
+      After each hands-on exercise, the results are discussed, and students receive a documented solution.<br>
+      <br>
+      As part of this training, you will be asked to create and submit your own threat model, on which you will get individual feedback.<br>
+      <br>
+      All participants get our Threat Modeling Playbook to improve you threat modeling practice, one-year access to our online threat modeling learning platform, and one-hour personal coaching to refine your threat modeling.<br>
+- Type: Training
+  Trainers: 
+    - Name: Abhay Bhargav
+      Email: abhaybhargav@gmail.com
+      Image: /assets/images/abhay_headshot_background.png
+      Twitter: abhaybhargav
+      Biography: >-
+          Abhay Bhargav is the Founder of the Chief Research Officer of AppSecEngineer, an elite, hands-on online training platform and we45 a specialized AppSec Company.
+          Abhay started his career as a breaker of apps, in pentesting and red-teaming, but today is more involved in scaling AppSec with Cloud-Native Security and DevSecOps
+          He has created some pioneering works in the area of DevSecOps and AppSec Automation, including the world’s first hands-on training program on DevSecOps, focused on Application Security Automation. In addition to this, Abhay is active in his research of new technologies and their impact on Application Security, specifically Cloud-Native Security. In addition, Abhay has contributed to pioneering work in the Vulnerability Management space, being the architect of a leading Vulnerability Management and Correlation Product, Orchestron. Abhay is also committed to Open-Source and has developed the first-ever Threat Modeling solution at the crossroads of Agile and DevSecOps, called ThreatPlaybook.
+          Abhay is a speaker and trainer at major industry events including DEF CON, BlackHat, OWASP AppSecUSA, EU and AppSecCali. His training programs have been sold-out events at conferences like AppSecUSA, EU, AppSecDay Melbourne, CodeBlue (Japan), BlackHat USA, SHACK and so on. He has authored two international publications on Java Security and PCI Compliance as well. 
+  TrainerId: trainer005
+  Title: Attacking and Defending - AWS, Azure and GCP Applications - 3 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
+  SectionId: sku_ADAAGA
+  Description: >-
+      Multicloud environments have grown in prevalence and significance. According to a study by VMWare in 2021, 73% of companies surveyed had adopted multi-cloud deployments with 2 cloud providers and 26% of them had adopted 3 cloud providers. Additionally, Hashicorp estimates nearly 90% of organizations are multicloud.<br>
+
+      Multicloud environments, consequently, lead to a variety of different application deployments and environments. Applications ranging from traditional VM deployed apps, to containerized apps on Kubernetes or other managed Container Orchestration apps to FaaS (Functions-as-a-Service) apps are deployed on the Big Three cloud providers (AWS, Azure, and GCP).
+
+      Just as application deployment patterns are dissimilar, the security of applications in these cloud environments is different as well. Attack patterns against these applications are also different, as a result of this. Companies and their security personnel are grappling with this issue, not only at scale but with a severe shortage of skills to boot.
+
+      This training has been designed with our highly renowned approach of ADD (Attack-Detect-Defend). This is where we use stories and get students to work through intricately designed technical scenarios. As part of each story, the student deploys the app on the relevant cloud environment using Infrastructure-as-Code tools like Terraform, CDK, Bicep, and others. The application(s), along with the stack (the cloud resources and configuration) is vulnerable in many small and serious ways. For the “Attack” part of the story, the students deploy the stack. Once the application is deployed, the students explore a compromise of the application. The students leverage vulnerabilities and execute carefully planned attack sequences that are designed to escalate privileges into the specific cloud environment and start to perform post-exploit activities ranging from data exfiltration to resource manipulation. This completes one part of the story where we go from deploying the application to attacking the application and compromising the underlying cloud infrastructure. This is the section of each story, where participants will do a CTF-style session. Here they will spend time identifying and attacking these infrastructures with multi-step attacks, where they perform extensive examples of lateral movement using techniques highlighted in the MITRE ATT&CK Framework, popular bug-bounties, and our own experiences with attacking and auditing cloud infrastructure.
+
+      For the “Detect” part of the story, we look at scenarios that involve Incident Response, Detection Engineering on the cloud, with these various Cloud Providers. In this part of the story, we have students deploy an identical (still vulnerable stack). However, this time, they deploy stacks with detection services enabled and configured. These detection services include, but are not limited to
+      <ul>
+      <li>Ingesting and harnessing Control-Plane Logs of the Cloud Provider/Service</li>
+      <li>Leveraging Threat Intelligence Services provided by the Cloud Provider</li>
+      <li>Leveraging ETL Services and Cloud Storage to build Detection Queries and parameters</li>
+      <li>And more</li>
+      </ul>
+      
+      The idea here is to get the student to perform the same attack sequences against the Cloud environment. Except for this time, deployed detection mechanisms identify these incursions and identify the attack attempts.
+
+      Finally, for each story, we have a “Defend” section. This is a section that comes full circle. We deploy a much more secure application to the particular cloud environment. In some cases, this would mean that even if the application continues to be vulnerable to the same issues, the underlying cloud configuration would be much more secure, hence negating the possibility of attack.
+
+      In this part of each story, we’d explore a combination of several security mechanisms that are natively provided by the cloud provider.
+
+      The security implementations we’ll be exploring across the stories are including, but are not limited to
+      <ul>
+      <li>AWS Network Security Controls => VPC, Advanced VPC Controls (Mirroring, Flow Logs, etc), Security Groups, etc</li>
+      <li>AWS IAM and Advanced IAM deployment, policies, and Policy Management</li>
+      <li>AWS Security Services => Security Hub, GuardDuty, etc</li>
+      <li>AWS Host Security Services => IMDSv2, Host level security monitoring using OSQuery, etc</li>
+      <li>Proactive Detection and Alerting => Cloudwatch, Cloudtrail, Alerts, Leveraging Lambda for security Event triggers, etc.</li>
+      <li>Security Analytics with Cloudwatch, Athena, etc</li>
+      <li>Federated Access Control and Management with Cognito and Cognito implementation deep-dives</li>
+      <li>Container-native security protections => ECR and Fargate</li>
+      <li>Encryption and Key Management Practices with KMS, Secrets Manager</li>
+      <li>GCP Network Security Controls => VPC, Firewall, and NAT Gateways</li>
+      <li>GCP IAM and advanced IAM with conditions and IAM policy with Audit logs</li>
+      <li>Access control management for the Application with GCP Identity Aware Proxy (IAP)</li>
+      <li>GCP Service account and least privilege in the service accounts</li>
+      <li>GCP Logging and monitoring => VPC logging, Firewall Logging, and Audit Logging</li>
+      <li>GCP storage and Security Controls for Storage => Fine-Grained Access, Uniform Access, and Public prevention</li>
+      <li>GCP Security Command Center for Security Detection and Vulnerability Monitoring</li>
+      <li>Azure network Security controls => Virtual network, Network Security Groups, Azure firewall</li>
+      <li>Azure IAM and Advanced IAM deployment, policies, and Policy Management</li>
+      <li>Azure Security Services => Microsoft sentinel, Defender for cloud service, advanced threat protection, Azure security center e.t.c</li>
+      <li>Security logging and monitoring with Azure monitor logs, Azure network watcher, and security orchestration automated incident response through Microsoft sentinel</li>
+      <li>Leveraging multiple encryption techniques through Azure key vault</li>
+      </ul>
+
+      The scope of this training encompasses the Big Three Cloud Providers (AWS, Azure, and GCP). In addition, since Kubernetes is a cross-cutting concern across all three cloud environments, there would be relevant Kubernetes specific stories showcased in the training as well.
+
+      Each story is a simulation of a real-world application and use-case(s). We’d leveraging everything from VMs on AWS, GCP, and Azure to Managed Container services (ECS, ACI, Cloud Run), to managed Kubernetes (EKS, AKS, GKE) to FaaS (Lambda, Azure Function Apps, Google Cloud Functions, Step Functions, Logic Apps, etc). The objective is to provide the students with a comprehensive viewpoint of applications, with a view on diverse deployment environments. This enables them to gain a greater understanding of the intricacies of offensive, defensive, and detection engineering for various types of applications and cloud environments.
+
+      We look to cover approximately 2 stories every day of the training. To keep the flow consistent, we’d focus on one cloud provider per day, with a brief introductory session on the cloud provider and some critical areas that the audience should be aware of before they go deep into the subject matter. The stories themselves are a set of micro-labs, where the trainers would explain and demonstrate the concept with hands-on labs that the participants are working through. The class is meant to be an extensively hands-on class, with the theory intermeshed into the hands-on labs to support it and give the students a detailed understanding of the subject matter.
+
+      To make things easier for the students, we provide hands-on lab environments on the cloud and access entirely on the browser. Free of VPNs and other messy VM setups. In addition, our cloud sandboxes are set up in such a way that the student does not even have to bring cloud accounts on AWS, Azure, and GCP. They use our cloud sandbox environments to do the hands-on labs in this class with no fear of their account being compromised, or them having to pay financial overages.
+
+      This class is an intense, deep-dive experience in Multi-Cloud Application Security. We’d like participants to explore practical implementations of full-fledged environments, rather than have a surface-level understanding of attack and defense in AWS, Azure, and GCP. 
+- Type: Training
+  Trainers: 
+    - Name: Harold Blankenship
+      Email: harold.blankenship@owasp.org
+      Image: /assets/images/headshot_bw_dd.jpg
+      Twitter: kithwood
+      Biography: >-
+          Harold Blankenship is an open source cybersecurity aficionado who likes to see the proliferation of good open source solutions to everyday application security problems. As the previous Director of Technology and
+          Projects at OWASP, Harold is knowledgeable in and has been a staunch supporter of the various OWASP projects used in this training. Harold is now the Director - Community & Customer Success with DefectDojo, Inc. and is also Vice chair of the OWASP Events Committee and OWASP project leader for Developer Guide. 
+          Harold received his Bachelor of Science degree in Computer Science from Texas State University and his Master of Science in Cybersecurity from New York University  
+      TrainerId: trainer008
+    - Name: Matt Tesauro
+      Email: matt.tesauro@owasp.org
+      Image: /assets/images/matttesauroheadshotsmalluse.png
+      Twitter: Matt_tesauro
+      Biography: >-
+          Matt Tesauro is a DevSecOps and AppSec guru who specializes in creating security programs, leveraging automation to maximize team velocity and training emerging and senior security professionals. When not writing automation code in Go, Matt is pushing for DevSecOps everywhere via his involvement in open-source projects, presentations, trainings and new technology innovation. 
+          As a versatile engineer, Matt’s background spans software development, primarily web development, Linux system administration, penetration testing and application / cloud security. He thrives on tackling industry defining technical problems.
+          Currently, as a Founder and CTO at DefectDojo Inc, Matt is making an already great vulnerability management platform even better. Matt is also on the OWASP Global Board of Directors helping to progress open source AppSec. Previously, he delved deep into API Security at Noname Security and rolled out AppSec automation at USAA. Early in his career, Matt served as Director of Community and Operations at the OWASP Foundation, Senior AppSec Engineer at Duo Security, Senior Software Security Engineer at Pearson and Senior Product Security Engineer at Rackspace. 
+  Title: OWASP in Action - ASPM (DevSecOps) with OWASP Projects - DevSecOps 2 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
+  SectionId: sku_HAIIE
+  Description: >-
+      If you are facing the challenge of Application Security Posture Management amidst a plethora of applications and issues, this course is designed to streamline the process using OWASP’s open source projects, optimized for DevSecOps workflows. 
+      Over the span of two days, you’ll engage in interactive lectures and labs that showcase the effective application of OWASP tools, as previously implemented by seasoned AppSec teams. Recognizing that the size of AppSec teams is often a limiting 
+      factor, the course emphasizes automation of routine tasks to free up your time for more complex problem-solving. Upon completion, you will be equipped with a comprehensive set of strategies and tools to enhance your AppSec initiatives through 
+      automation and the integration of OWASP projects, all delivered at DevSecOps pace. The instructors, with over two decades of industry and OWASP project experience, offer practical, proven guidance for achieving success in ASPM.
+      <br>
+      <span style="font-size:larger;font-weight:bold;">Outline</span>
+      <br>      
+      <ul><li><strong>Introduction</strong></li>
+        <ul><li>Application Security Programs</li>
+        <li>AppSec – Current State of Affairs</li>
+        <li>ASPM – Why?</li>
+        <li>Lab #1 – Getting to know the Lab Dockers</li></ul>
+      <li><strong>Docker Overview</strong></li>
+        <ul><li>Why Docker?</li>
+        <li>Docker Fundamentals</li>
+        <li>Dockerfiles, volumes, layers and more</li>
+        <li>Being productive with Docker</li>
+        <li>Lab #2 - Dockerizing a security tool</li></ul>
+      <li><strong>OWASP DefectDojo</strong></li>
+        <ul><li>One source</li>
+        <li>One place</li>
+        <li>Findings</li>
+        <li>Reports</li>
+        <li>Integrations</li>
+        <li>REST API</li>
+        <li>Inventory</li>
+        <li>Lab #3 DefectDojo on Intake</li>
+        <li>Lab #4 DefectDojo on Engagements and managing data</li>
+        <li>Lab #5 DefectDojo on delivering results</li></ul>
+      <li><strong>OWASP and other OS Testing Tools</strong></li>
+        <ul><li>ZAP</li>
+        <li>Dependency Check and Dependency Track</li>
+        <li>ModSecurity Core Rule Set</li>
+        <li>O-Saft, Amass, Find Security Bugs, OWASP Sedated</li>
+        <li>Glue, AppSec Pipeline/Gasp, OWTF</li>
+        <li>Lab #6 - Getting to know the testing tools</li></ul>
+      <li><strong>OWASP Docs you need to use</strong></li>
+        <ul><li>ASVS</li>
+        <li>Testing Guide & Mobile Security Testing Guide</li>
+        <li>SAMM</li>
+        <li>Top 10 Proactive Controls</li>
+        <li>Cheat Sheet Series</li>
+        <li>Top 10</li>
+        <li>Automated Threats to Web Applications</li>
+        <li>SecLists Project</li>
+        <li>DevSecOps Maturity Model</li>
+        <li>Docker, Container and API projects</li>
+        <li>Lab #7 - Putting the docs to work for you</li></ul>
+      <li><strong>OWASP Training Tools</strong></li>
+        <ul><li>JuiceShop</li>
+        <li>WebGoat</li>
+        <li>Security Shepherd</li>
+        <li>DevSlop & Pixi</li>
+        <li>Secure Coding Dojo</li>
+        <li>Vulnerable Web Applications Directory</li>
+        <li>Lab #8 - DIY CTF</li></ul>
+      <li><strong>Conclusion</strong></li></ul>

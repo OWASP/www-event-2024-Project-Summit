@@ -1,0 +1,43 @@
+ - image: Ted.jpg
+   name: Ted Harrington
+   title: The Hackable Method
+   bio: >- 
+        Ted Harrington is the #1 bestselling author of "Hackable", which led to his TED talk “Why You Need To Think Like a Hacker.” He’s the Executive Partner at ISE, the company of ethical hackers famous for hacking cars, medical devices, and web apps; he also co-founded START, software which simplifies vendor risk management. His clients include Google, Amazon, and Netflix, and he has been featured in more than 100 media outlets, including The Wall Street Journal, Financial Times, and Forbes. His team founded IoT Village, an event series whose hacking contest is a four-time DEF CON Black Badge winner, and he hosts the Tech Done Different podcast.
+        To get help with security testing, vendor risk management, or to book Ted as your keynote speaker, visit https://www.tedharrington.com.
+   abstract: >-
+        Have you ever wondered how hackers think? Do you know what things most companies get wrong when trying to secure their apps? Do you know what to do instead?
+        In this keynote, you'll hear stories from the front lines of ethical hacking. Led by Ted Harrington -- #1 bestselling author of Hackable, co-founder of IoT Village, and a leader of ethical hackers -- you'll learn how to build better, more secure systems, including:
+        <ul>
+         <li>what it means to think like a hacker (and how to apply those principles)</li>
+         <li>the most common misconceptions and mistakes that people make in application security</li>
+         <li>what to do instead</li>
+        </ul>
+        You'll hear fun stories that vividly illustrate and explain the points, and learn what to do about it. Ted will be available for a book signing afterwards, too!
+ - image: jason_headshot.jpg
+   name: Jason Haddix
+   title: Red, Blue, and Purple AI
+   bio: >- 
+        Jason Haddix AKA jhaddix is the CEO and “Hacker in Charge” at Arcanum Information Security. Arcanum is a world class assessment and training company. Jason has had a distinguished 20-year career in cybersecurity previously serving as CISO of Buddobot, CISO of Ubisoft, Head of Trust/Security/Operations at Bugcrowd, Director of Penetration Testing at HP, and Lead Penetration Tester at Redspin. He has also held positions doing mobile penetration testing, network/infrastructure security assessments, and static analysis. Jason is a hacker, bug hunter and currently ranked 57th all-time on Bugcrowd’s bug bounty leaderboards. Currently, he specializes in recon, web application analysis, and emerging technologies. Jason has also authored many talks on offensive security methodology, including speaking at cons such as DEFCON, Bsides, BlackHat, RSA, OWASP, Nullcon, SANS, IANS, BruCon, Toorcon and many more.
+   abstract: >-
+        Red, blue, and purple AI reverse-engineers the cybersecurity responsibilities of practitioners and modern security programs. It aims to augment these practitioners with practical and useful AI tools. This talk isn't about the future state of AI and ML; it's about taking home concrete strategies and prompts to empower your security team. We will break down these strategies into helpers for red teams, blue teams, and purple teams. Jason will also provide overviews on how to create your own best-in-class prompts based on his experience with OpenAI's ChatGPT-4 and having a top 500 GPT in the GPT store. Expect a wide variety of topics that will not only give you superpowers but also inspire you to augment other parts of your job 
+ - image: reeny_sondhi_profile.jpeg.jpg
+   name: Reeny Sondhi
+   title: Breaking the Mold -Navigating the Intersection of Technology, Security, and Trust   
+   bio: >- 
+        Reeny Sondhi is Chief Digital Officer at Twilio. She is responsible for the Information and Corporate Security organizations as well as Information Technology. Before joining Twilio, Reeny was the Chief Security Officer at Autodesk and was responsible for driving the company’s security and trust strategy for its infrastructure, products, and services. Prior to that, she led product and security engineering for EMC, now part of Dell. Reeny also serves on the board of Rapid7, a growth business in cybersecurity.
+        With over 25 years in technology, she enjoys building security and technology teams that bring pragmatism, innovation, and creativity to complex problems.
+        Reeny was featured by the San Francisco Business Times as part of the 100 Most Influential Women in Bay Area Business in 2019 and has also been featured in Girl Geek X - 16 Female Infosec & Cybersecurity Executives To Watch. She was named as one of the 100 Executive Women in Tech to Watch in 2023 and 2024 by the WomenTech network.
+        Reeny is passionate about promoting diversity in technology and information security and has served as a mentor for various Women in Technology programs.
+        Reeny holds a Bachelor of Science in Electronics & Telecommunications and a Master of Business Administration.
+   abstract: >-
+        Join Reeny Sondhi, Chief Digital Officer at Twilio, in a fireside chat moderated by Avi Douglen, where she shares her unconventional journey from engineering and product management to leading security and IT at Twilio. Reeny will discuss how her diverse background has shaped her approach to security, innovation, and trust in today’s fast-evolving digital landscape. She’ll offer insights into key challenges in application and information security, demonstrating the business value of security as a driver of trust and growth. Additionally, she’ll share strategies for staying ahead of evolving security standards and balancing robust security with a seamless customer experience
+ - image: Aanchal_Gupta.jpg
+   name: Aanchal Gupta
+   title: Thriving in the Age of AI
+   bio: >- 
+        Aanchal Gupta is the Corporate VP at Microsoft responsible for building core features for M365 product. Prior to her current role, as Deputy CISO and CVP, Aanchal led the Microsoft Security Response Center, a diverse team of security experts working around the clock to protect one of the worlds largest corporate networks and providing the first line of defense for billions of customers against an evolving security landscape. Previously, as Chief Information Security Officer for Novi-Calibra at Facebook, she led a team responsible for assessing and mitigating security risks across Facebooks cryptocurrency initiative. Aanchal joined Facebook in 2016 after serving as Chief Information Security Officer at Microsoft for Skype and Skype for Business. Prior to Microsoft, Aanchal led Yahoos Global Identity team, contributing to various authentication and authorization open standards such as OpenID and OAuth. 
+        Aanchal was named one of Business Insiders Most powerful female engineers of 2018. She serves on the board of Internet Security Research Group and is a fellow at the Royal Society for the encouragement of Arts, Manufactures and Commerce. She also serves on Silicon Valley CISO Investments board and invests in and guides cybersecurity startups.  Aanchal is also a staunch advocate for building diverse teams and serves on the review board for the Grace Hopper, Enigma, and Black Hat conferences.
+   abstract: >- 
+        In the keynote presentation, Thriving in the Age of AI, Aanchal Gupta explores the transformative impact of artificial intelligence on our lives and businesses. With her extensive experience as a CISO and currently as GM for M365, she will share firsthand insights on how AI is becoming a crucial part of our life and the importance of securing these powerful tools. The keynote will explore the current landscape of security threats, the role of AI in enhancing security, and real-world examples of AI's impact across various sectors. Attendees will gain valuable knowledge on innovative strategies to mitigate risks, the ethical implications of AI in security, and the future trends and innovations in AI-driven threat intelligence and autonomous security systems. Don't miss this opportunity to learn from an industry expert and network with fellow professionals dedicated to securing the future of application development.
+
+ 
