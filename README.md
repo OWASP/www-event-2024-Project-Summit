@@ -1,1 +1,1 @@
-# OWASP Global AppSec San Francisco 2024
+# OWASP Project Summit 2024, Woburn Forest, UK
